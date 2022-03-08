@@ -4,13 +4,6 @@
 # Last Updated: January 14th 2021 05:14 UTC
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
-# Common trackers
-0.0.0.0 googletagmanager.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 google-analytics.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-
 # GoGuardian
 0.0.0.0 34-211-217-149.sockets.goguardian.com
 0.0.0.0 34-211-23-76.sockets.goguardian.com
@@ -268,3 +261,4 @@
 0.0.0.0 com-default.ws
 0.0.0.0 blocked.com-default.ws
 0.0.0.0 staging-blocked.com-default.ws
+0.0.0.0 blocked.goguardian.com
